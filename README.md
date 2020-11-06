@@ -30,7 +30,7 @@ Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and
 ## 1. [Aicirou/goindex-theme-acrou](https://github.com/Aicirou/goindex-theme-acrou)
 
 
-Worker Script (Dark Mode) : [index.js](https://github.com/alx-xlx/goindex/blob/2.0.8-darkmode/goindex-acrou/go2index/index.js)
+Worker Script (Dark Mode) : [index.js](https://github.com/kiprox/goindex/blob/2.0.8-darkmode/goindex-acrou/go2index/index.js)
 
 <!-- Worker Script (Multiple Google Accounts) : [index-multiple-accounts.js](https://github.com/alx-xlx/goindex/blob/master/goindex-acrou/go2index/index-multiple-accounts.js) -->
 
