@@ -41,7 +41,7 @@ Copy the [index.js](https://github.com/alx-xlx/goindex/blob/2.0.8-darkmode/goind
 OR
 
 ### GoIndex Auto Code Builder
-https://goindex.glitch.me/
+https://kiprox-generate.glitch.me/
 
 Simply visit [this](https://goindex.glitch.me/) Modified (only for Dark Mode) version to automatically generate your `index.js` without having to manually edit anything.
 
