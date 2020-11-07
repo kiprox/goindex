@@ -1,18 +1,18 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "goindex", // 网站名称
-  version: "1.1.2", // 程序版本
+  siteName: "goindex", // Nama situs
+  version: "1.1.2", // Versi Program
   theme: "acrou",
-  // 强烈推荐使用自己的 client_id 和 client_secret
+  // RECOMMENDED Gunakan milik sendiri client_id dengan client_secret
   client_id: "202264815644.apps.googleusercontent.com",
   client_secret: "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-  refresh_token: "", // 授权 token
+  refresh_token: "", // Otorisasi token
   /**
-   * 设置要显示的多个云端硬盘；按格式添加多个
-   * [id]: 可以是 团队盘id、子文件夹id、或者"root"（代表个人盘根目录）；
-   * [name]: 显示的名称
-   * [user]: Basic Auth 的用户名
-   * [pass]: Basic Auth 的密码
+   * Siapkan beberapa Drive untuk ditampilkan; tambahkan beberapa menurut format
+   * [id]: Bisa ID Team Drives、ID subfolder、atau "root"（Direktori root disk pribadi）；
+   * [name]: Nama yang ditampilkan
+   * [user]: Basic Auth dari Nama pengguna
+   * [pass]: Basic Auth Kata sandi
    * [protect_file_link]: Basic Auth 是否用于保护文件链接，默认值（不设置时）为 false，即不保护文件链接（方便 直链下载/外部播放 等）
    * 每个盘的 Basic Auth 都可以单独设置。Basic Auth 默认保护该盘下所有文件夹/子文件夹路径
    * 【注意】默认不保护文件链接，这样可以方便 直链下载/外部播放;
