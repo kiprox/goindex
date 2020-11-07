@@ -196,7 +196,7 @@ src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/<USERNAME
 Example :
 
 ```
-src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/alx-xlx/goindex@${authConfig.hash}/themes/${authConfig.theme}/app.js"
+src="//cdn.jsdelivr.net/combine/gh/jquery/jquery/dist/jquery.min.js,gh/kiprox/goindex@${authConfig.hash}/themes/${authConfig.theme}/app.js"
 ```
 
 ## Change Icons
