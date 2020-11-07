@@ -1,6 +1,5 @@
 ﻿<div align="center">
-<h2>goindex</h2>
-<img src="https://github.com/alx-xlx/goindex/raw/master/themes/logo.png" alt="goindex" height="">
+<img src="https://github.com/kiprox/goindex/raw/master/themes/logo.png" alt="goindex" height="">
 
 </div>
 <div align="center">
