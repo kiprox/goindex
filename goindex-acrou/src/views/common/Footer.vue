@@ -6,7 +6,7 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
+              href="https://github.com/kiprox/goindex-acrou"
             >goindex-theme-acrou</a>
             <span class="tag is-light">
               MIT &nbsp;
