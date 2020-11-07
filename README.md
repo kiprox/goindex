@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://github.com/kiprox/goindex/raw/master/themes/logo.png" alt="goindex" height="">
-
-</div>
-<div align="center">
 
 <img alt="goindex-license" src="https://img.shields.io/badge/Open_source-MIT-red.svg?logo=git&logoColor=green"/>
 <img src="https://img.shields.io/github/last-commit/kiprox/goindex.svg?logo=Sublime+Text&logoColor=green&label=Active"/>
