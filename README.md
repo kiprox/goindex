@@ -36,7 +36,7 @@ Worker Script (Dark Mode) : [index.js](https://github.com/kiprox/goindex/blob/2.
 
 Demo - [goindex.teamsdrives.workers.dev](https://goindex.teamsdrives.workers.dev)
 
-Copy the [index.js](https://github.com/alx-xlx/goindex/blob/2.0.8-darkmode/goindex-acrou/go2index/index.js) script to [workers.dev](https://workers.cloudflare.com/) and edit `client_id`, `client_secret`, `refresh_token` with yours
+Copy the [index.js](https://github.com/kiprox/goindex/blob/2.0.8-darkmode/goindex-acrou/go2index/index.js) script to [workers.dev](https://workers.cloudflare.com/) and edit `client_id`, `client_secret`, `refresh_token` with yours
 
 OR
 
@@ -66,7 +66,7 @@ Demo - [gdindex-dark.teamsdrives.workers.dev](https://gdindex-dark.teamsdrives.w
 
 ## 3. donwa/goindex
 
-Workers Script - [index.js](https://github.com/alx-xlx/goindex/blob/2.0.8-darkmode/goindex.js)
+Workers Script - [index.js](https://github.com/kiprox/goindex/blob/2.0.8-darkmode/goindex.js)
 
 ## Themes
 
