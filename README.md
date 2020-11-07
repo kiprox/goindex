@@ -1,5 +1,5 @@
-﻿<div align="center">
-<h2>goindex</h2>
+<div align="center">
+
 <img src="https://github.com/alx-xlx/goindex/raw/master/themes/logo.png" alt="goindex" height="">
 
 </div>
