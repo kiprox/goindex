@@ -3,11 +3,11 @@ import febAlive from "feb-alive";
 import VueRouter from "vue-router";
 import NProgress from "nprogress";
 import "nprogress/nprogress.css";
-// 路由数据
+// Route data
 import routes from "./routes";
 import store from "@/store/index";
 
-// 在router实例化之前重写history
+// Rewrite history before router instantiation
 febAlive.resetHistory();
 
 // fix vue-router NavigationDuplicated
@@ -22,7 +22,7 @@ VueRouter.prototype.replace = function replace(location) {
 
 Vue.use(VueRouter);
 
-// 导出路由 在 main.js 里使用
+// Export route is used in main.js
 const router = new VueRouter({
   mode: "history",
   scrollBehavior(to, from, savePosition) {
@@ -41,8 +41,8 @@ const router = new VueRouter({
 Vue.use(febAlive, { router });
 
 /**
- * 路由拦截
- * 权限验证
+ * Route interception
+ * Permission Validation
  */
 router.beforeEach(async (to, from, next) => {
   NProgress.start();
