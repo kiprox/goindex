@@ -13,6 +13,4 @@
 ---
 
 Google Drive Directory Index  
-Menggabungkan kekuatan [Cloudflare Workers](https://workers.cloudflare.com/) dan [Google Drive](https://www.google.com/drive/) akan memungkinkan Anda mengindeks file Anda di browser di Cloudflare Workers.    
-
-File [index.js](https://github.com/kiprox/goindex/blob/main/goindex-acrou/go2index/index.js) inilah content yang harus dipasang dalam Workers script.
+Menggabungkan kekuatan [Cloudflare Workers](https://workers.cloudflare.com/) dan [Google Drive](https://www.google.com/drive/) akan memungkinkan Anda mengindeks file Anda di browser di Cloudflare Workers.
