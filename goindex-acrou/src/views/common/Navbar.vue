@@ -139,7 +139,7 @@ export default {
       return this.gds.filter((item) => item.name !== this.currgd.name);
     },
     showSearch() {
-      // 文件夹不支持搜索
+      // Folder tidak mendukung pencarian
       return window.MODEL ? window.MODEL.root_type < 2 : true
     },
   },
