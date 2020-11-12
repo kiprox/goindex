@@ -76,10 +76,8 @@ var authConfig = {
   
   
   var themeOptions = {
-    cdn: "https://cdn.jsdelivr.net/gh/alx-xlx/goindex",
-    // 主题版本号
-    version: "2.0.8-darkmode-0.1",
-    //可选默认系统语言:en/zh-chs/zh-cht
+    cdn: "https://cdn.jsdelivr.net/gh/kiprox/goindex",
+    version: "2.0.8-darkmode",
     languages: "en",
     render: {
       /**
