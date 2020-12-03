@@ -82,7 +82,7 @@ var authConfig = {
   
   var themeOptions = {
     cdn: "https://cdn.jsdelivr.net/gh/kiprox/goindex",
-    version: "master",
+    version: "1.0.0",
     languages: "en",
     render: {
       /**

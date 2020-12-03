@@ -72,7 +72,7 @@ var authConfig = {
 var themeOptions = {
   cdn: "https://cdn.jsdelivr.net/gh/kiprox/goindex",
   // Nomor versi tema
-  version: "master",
+  version: "1.0.0",
   // Bahasa sistem default [opsional] :en/zh-chs/id
   languages: "en",
   render: {
