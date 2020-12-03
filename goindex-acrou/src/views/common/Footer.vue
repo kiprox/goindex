@@ -6,7 +6,7 @@
           <div class="tags has-addons">
             <a
               class="tag is-dark"
-              href="https://github.com/kiprox/goindex/goindex-acrou"
+              href="https://github.com/kiprox/goindex"
             >kiprox</a>
             <span class="tag is-light">
               MIT &nbsp;

@@ -174,7 +174,7 @@ export function formatFileSize(bytes) {
  * @example XDate.format(new Date(), "YYYY-MM-DD") ==> 2017-08-23
  */
 export function formatDate(date, fmt) {
-  fmt = fmt || "YYYY-MM-DD HH:mm:ss";
+  fmt = fmt || "DD-MM-YYYY HH:mm:ss";
   if (typeof date === "string") {
     // date = new Date(date.replace(/-/g, '/'))
     date = new Date(date);

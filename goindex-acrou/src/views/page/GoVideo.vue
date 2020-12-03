@@ -115,7 +115,7 @@ export default {
       }
     },
     loadSub(path, index) {
-      this.subtitle = path.substring(0, index) + ".vtt";
+      this.subtitle = path.substring(0, index) + ".srt";
     },
     loadHls(options) {
       import("@/plugin/vplayer/hls").then((res) => {
