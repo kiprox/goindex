@@ -1,61 +1,61 @@
 {
   "_name": "Indonesian",
   "languages": "Bahasa",
-  "index": "Home",
+  "index": "Beranda",
   "folder": "Folder",
   "notify": {
-    "title": "Notify"
+    "title": "Pemberitahuan"
   },
   "copy": {
-    "text": "Copy",
-    "success": "Copy successful",
-    "error": "Copy failed"
+    "text": "Salin",
+    "success": "Berhasil menyalin",
+    "error": "Gagal menyalin"
   },
   "list": {
     "view": {
       "gridMode": "Grid view",
       "listMode": "List view"
     },
-    "auth": "Directory encryption, please enter password",
+    "auth": "Direktori terenkripsi, silahkan masukkan kata sandi",
     "title": {
-      "file": "File",
-      "moditime": "Modified Time",
-      "size": "Size",
-      "operation": "Actions"
+      "file": "Berkas",
+      "moditime": "Waktu Perubahan",
+      "size": "Ukuran",
+      "operation": "Tindakan"
     },
-    "loading": "Loading...",
+    "loading": "Memproses...",
     "opt": {
-      "copy": "Copy link",
+      "copy": "Salin tautan",
       "newTab": "Buka tab baru",
-      "download": "Download"
+      "download": "Unduh"
     },
     "total": "Total",
     "item": "item"
   },
   "search": {
-    "placeholder": "Search resources..."
+    "placeholder": "Mencari..."
   },
   "page": {
     "video": {
-      "play": "Play",
-      "download": "Download",
-      "link": "Direct Link"
+      "play": "Putar",
+      "download": "Unduh",
+      "link": "Tautan Langsung"
     },
     "text": {
-      "loading": "Loading..."
+      "loading": "Memproses..."
     }
   },
   "setting": {
     "clear": {
-      "text": "Clean cache",
-      "success": "Cache cleanup successful"
+      "text": "Bersihkan cache",
+      "success": "Berhasil membersihkan cache"
     }
   },
   "checkVersion": {
-    "tips": "New version detected, <a href='${url}'>Go to GitHub</a>"
+    "tips": "Versi baru terdeteksi, <a href='${url}'>Pergi ke GitHub</a>"
   },
   "error": {
-    "shortcut_not_down": "Shortcut can't open/download",
-    "401": "Unauthorized, please login"
+    "shortcut_not_down": "Pintasan tidak bisa buka/unduh",
+    "401": "Perlu otentifikasi, silahkan login"
   }
 }
