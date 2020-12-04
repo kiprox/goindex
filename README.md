@@ -31,4 +31,4 @@
 
 ---
 
-You can use external MP4 player from this app [KIPROX PLAYER](https://kiprox.herokuapp.com/generate.php), support subtitles from external direct link.
+You can use external MP4 player from my HerokuApp [KIPROX PLAYER](https://kiprox.herokuapp.com/generate.php), support subtitles from external direct link.
