@@ -11,8 +11,8 @@ self.props = {
 	client_secret: '********',
 	refresh_token: '*********',
 	auth: false,       // Add Authentication to your Indexed Drive
-	user: 'root',
-	pass: 'toor',
+	user: '',
+	pass: '',
 	upload: true,    // Ability to Upload Files (Local / Remote)
 	lite: false
 };

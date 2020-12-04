@@ -21,21 +21,21 @@ const authConfig = {
   "roots": [
     {
       id: "root",     // Default Drive in Selection
-      name: "root"
+      name: "TITLE"
     },
     {
-      id: "0AK0dce9h38dOUk9PVA",
-      name: "opra",
-      user: 'user1',
-      pass: "111",
+      id: "",
+      name: "",
+      user: '',
+      pass: "",
       protect_file_link: false
     },
     {
-      id: "folder_id",
-      name: "文件夹",
+      id: "folderID",
+      name: "",
       // It is possible to set only the password, only the user name, and the user name and password at the same time
       user: '',
-      pass: "222",
+      pass: "",
       protect_file_link: false
     }
   ],
